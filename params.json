@@ -1,0 +1,6 @@
+{
+  "name": "Python-miscellanea",
+  "tagline": "Various python scripts",
+  "body": "# python-miscellanea\r\nVarious python scripts\r\n\r\nThis documentation intentionally left quite sparse.\r\n\r\n\r\n## *N.B.*, Nothing in the license text should be construed as granting license to code belonging to another author, *viz.*, the code written by Dr. Bryson Payne [the rights to which are likely his or are shared with his publisher, No Starch Press]. \r\n\r\nIn any event I am merely using the above-mentioned code to bootstrap my education as a developer and do not make any claims on or to it.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
